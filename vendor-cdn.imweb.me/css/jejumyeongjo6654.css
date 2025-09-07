@@ -1,0 +1,13 @@
+@font-face {
+	font-family: 'JejuMyeongjo';
+	src: local('JejuMyeongjo'),
+	url('https://vendor-cdn.imweb.me/fonts/JejuMyeongjo-Regular.eot'),
+	url('https://vendor-cdn.imweb.me/fonts/JejuMyeongjo-Regular.eot?#iefix') format('embedded-opentype'),
+	url('https://vendor-cdn.imweb.me/fonts/JejuMyeongjo-Regular.woff2') format('woff'),
+	url('https://vendor-cdn.imweb.me/fonts/JejuMyeongjo-Regular.woff') format('woff'),
+	url('https://vendor-cdn.imweb.me/fonts/JejuMyeongjo-Regular.ttf') format('truetype');
+	font-style: normal;
+	font-weight: normal;
+	font-display: swap;
+  unicode-range: U+AC00-D7A3, U+0041-005A, U+0061-007A, U+0030-0039, U+0020-002F, U+003A-0040, U+005B-0060, U+007B-007E;
+}

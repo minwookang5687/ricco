@@ -1,0 +1,50 @@
+@font-face {
+	font-family: 'EB Garamond';
+	src: url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Regular.eot');
+	src: local('EB Garamond Regular'), local('EBGaramond-Regular'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Regular.eot?#iefix') format('embedded-opentype'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Regular.woff2') format('woff2'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Regular.woff') format('woff'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Regular.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+	font-display: swap;
+}
+@font-face {
+	font-family: 'EB Garamond';
+	src: url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Bold.eot');
+	src: local('EB Garamond Bold'), local('EBGaramond-Bold'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Bold.eot?#iefix') format('embedded-opentype'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Bold.woff2') format('woff2'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Bold.woff') format('woff'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Bold.ttf') format('truetype');
+	font-weight: bold;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'EB Garamond';
+	src: url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Medium.eot');
+	src: local('EB Garamond Medium'), local('EBGaramond-Medium'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Medium.eot?#iefix') format('embedded-opentype'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Medium.woff2') format('woff2'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Medium.woff') format('woff'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-Medium.ttf') format('truetype');
+	font-weight: 500;
+	font-style: normal;
+	font-display: swap;
+}
+
+@font-face {
+	font-family: 'EB Garamond';
+	src: url('https://vendor-cdn.imweb.me/fonts/EBGaramond-SemiBold.eot');
+	src: local('EB Garamond SemiBold'), local('EBGaramond-SemiBold'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-SemiBold.eot?#iefix') format('embedded-opentype'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-SemiBold.woff2') format('woff2'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-SemiBold.woff') format('woff'),
+	url('https://vendor-cdn.imweb.me/fonts/EBGaramond-SemiBold.ttf') format('truetype');
+	font-weight: 600;
+	font-style: normal;
+	font-display: swap;
+}
