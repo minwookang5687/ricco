@@ -1,0 +1,26 @@
+
+<!-- Mirrored from ricco-corporation.shop/logout.cm?back_url=Lw%3D%3D by HTTrack Website Copier/3.x [XR&CO'2014], Sat, 06 Sep 2025 11:13:56 GMT -->
+<!-- Added by HTTrack --><meta http-equiv="content-type" content="text/html;charset=utf-8" /><!-- /Added by HTTrack -->
+<meta http-equiv="refresh" content="0;url=index.html">
+<script>
+	window.sessionStorage.removeItem('oms_token');
+	window.localStorage.removeItem('oms_token');
+	if(localStorage.getItem('IS_AUTO_LOGOUT') == 'Y') {
+		alert("고객님의 안전한 사이트 이용을 위해 로그인 후 약 "+ localStorage.getItem('AUTO_LOGOUT_TIME') +"분 동안 서비스 이용이 없어 자동 로그아웃 되었습니다.");
+	}
+</script>
+
+<!-- BrandScope 관련 코드 -->
+<script>
+	// brandscope.js의 사용을 위해 필요한 변수를 전역으로 등록함
+	window.SITE_CODE = 'S20250606f3c50d5ced74c';
+	window.TEST_SERVER = Boolean('');
+	window.UNIT_CODE = 'u202506067948f4005a51b';
+</script>
+<script src="js/brandscope.js"></script>
+<script>
+	if(window.BrandScope !== undefined) {
+		window.BrandScope.sessionResetByLogout();
+	}
+</script>
+<!-- BrandScope 관련 코드 end -->
